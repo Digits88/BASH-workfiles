@@ -2,7 +2,7 @@
 
 declare -A arr
 arr["name"]="John Troon"
-arry["twitter"]="@johntroony"
+arr["twitter"]="@johntroony"
 
 
 for i in "${!arr[@]}"
