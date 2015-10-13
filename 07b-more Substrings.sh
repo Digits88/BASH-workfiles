@@ -2,7 +2,7 @@
 
 a="hello"
 b="world"
-c=$ab
+c=$a$b
 echo $c
 
 # how long is a string?
